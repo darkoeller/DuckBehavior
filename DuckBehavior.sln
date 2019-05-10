@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckBehavior", "DuckBehavior\DuckBehavior.csproj", "{057E830B-CC43-4B15-9E0F-40C93115CD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057E830B-CC43-4B15-9E0F-40C93115CD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057E830B-CC43-4B15-9E0F-40C93115CD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057E830B-CC43-4B15-9E0F-40C93115CD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057E830B-CC43-4B15-9E0F-40C93115CD11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8261382-F9EE-4529-B8FA-CAD2C2CFE567}
+	EndGlobalSection
+EndGlobal
